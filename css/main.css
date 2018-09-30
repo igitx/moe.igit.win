@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dd1c52;
+  background: #12e0cd;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2621,7 +2621,7 @@ embed {
 #sidebar p,
 #sidebar span,
 #sidebar a {
-  color: #fff;
+  color: #008000;
 }
 body {
   background-color: #d9d2c2;
