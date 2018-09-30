@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #83c9ad;
+  background: #dd1c52;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2624,7 +2624,7 @@ embed {
   color: #fff;
 }
 body {
-  background: url("https://source.unsplash.com/5IHz5WhosQE/1600x900");
+  background-color: #d9d2c2;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
