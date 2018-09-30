@@ -4,11 +4,27 @@
     <title><![CDATA[中文测试]]></title>
     <url>%2F2018%2F09%2F30%2F%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95%2F</url>
     <content type="text"><![CDATA[中文]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
+      <tags>
+        <tag>jQuery</tag>
+        <tag>表格</tag>
+        <tag>表单验证</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[image_test]]></title>
     <url>%2F2018%2F09%2F30%2Fimage-test%2F</url>
     <content type="text"><![CDATA[Images Coding.net 为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。]]></content>
+      <categories>
+        <category>web前端</category>
+      </categories>
+      <tags>
+        <tag>jQuery</tag>
+        <tag>表格</tag>
+        <tag>表单验证</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>
