@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://moe.igit.win/"/>
-  <updated>2018-09-30T01:05:46.942Z</updated>
+  <updated>2018-09-30T14:31:51.480Z</updated>
   <id>https://moe.igit.win/</id>
   
   <author>
@@ -17,21 +17,40 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>image_test</title>
-    <link href="https://moe.igit.win/2018/09/30/image-test/"/>
-    <id>https://moe.igit.win/2018/09/30/image-test/</id>
-    <published>2018-09-30T00:59:43.000Z</published>
-    <updated>2018-09-30T01:05:46.942Z</updated>
+    <title>中文测试</title>
+    <link href="https://moe.igit.win/2018/09/30/%E4%B8%AD%E6%96%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://moe.igit.win/2018/09/30/中文测试/</id>
+    <published>2018-09-30T14:31:08.000Z</published>
+    <updated>2018-09-30T14:31:51.480Z</updated>
     
-    <content type="html"><![CDATA[<p>#Images<br><img src="https://moe-1251257292.file.myqcloud.com/images/timg.jpg" alt="image"></p><blockquote><p>Coding.net 为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="中文"><a href="#中文" class="headerlink" title="中文"></a>中文</h1>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#Images&lt;br&gt;&lt;img src=&quot;https://moe-1251257292.file.myqcloud.com/images/timg.jpg&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Coding.net 为软件开发者提供基于云计算技
+        &lt;h1 id=&quot;中文&quot;&gt;&lt;a href=&quot;#中文&quot; class=&quot;headerlink&quot; title=&quot;中文&quot;&gt;&lt;/a&gt;中文&lt;/h1&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>image_test</title>
+    <link href="https://moe.igit.win/2018/09/30/image-test/"/>
+    <id>https://moe.igit.win/2018/09/30/image-test/</id>
+    <published>2018-09-30T00:59:00.000Z</published>
+    <updated>2018-09-30T14:32:11.473Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h1><p><img src="https://moe-1251257292.file.myqcloud.com/images/timg.jpg" alt="image"></p><blockquote><p>Coding.net 为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;Images&quot;&gt;&lt;a href=&quot;#Images&quot; class=&quot;headerlink&quot; title=&quot;Images&quot;&gt;&lt;/a&gt;Images&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;https://moe-1251257292.file.myqcloud.com/ima
       
     
     </summary>
